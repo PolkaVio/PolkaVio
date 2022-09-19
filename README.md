@@ -1,4 +1,4 @@
-ALLERT , new account first account has been lost 
+ALERT !!! , new account first account has been lost 
 
 
 - 👋 Hi, I’m @PolkaVio from Indonesia 
@@ -6,6 +6,7 @@ ALLERT , new account first account has been lost
 - 📫 How to reach me polkavio22@gmail.com or https://linktr.ee/polkavio
 
 
+```wen mon```
 </> 
 
 

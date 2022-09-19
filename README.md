@@ -1,3 +1,6 @@
+ALLERT , new account first account has been lost 
+
+
 - 👋 Hi, I’m @PolkaVio from Indonesia 
 - 👀 I’m interested in CryptoCurrency | NFT | WEB 3 | NODE OPERATOR | Community Builder
 - 📫 How to reach me polkavio22@gmail.com or https://linktr.ee/polkavio
